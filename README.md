@@ -71,3 +71,8 @@ This guide explains how to set up KMail on Termux.
 
 21. Click **Check Mail** to verify that your account has been configured successfully.
 <img width="1600" height="720" alt="15" src="https://github.com/user-attachments/assets/42e42723-162b-4169-9b20-29fcf9268da3" />
+
+## Related
+
+Termux KMail package PR:
+https://github.com/termux/termux-packages/pull/28403
